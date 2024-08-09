@@ -1,3 +1,5 @@
+//Divyansh Rastogi
+//23070123048
 #include <iostream>
 #include<string>
 using namespace std;
@@ -22,3 +24,18 @@ int main() {
     cout<<"  the no. is: "<<mycharvar<<endl<<"the size is: "<<sizeof(mycharvar)<<endl;
    
 }
+/*enter input: 
+22
+the no. is:22
+the size is:4
+enter float :
+2.66
+the no. is: 2.66
+the size is: 4
+enter the no.
+ :party
+the no. is : 0
+the size is:8
+enter char:
+  the no. is:
+the size is: 1*/
